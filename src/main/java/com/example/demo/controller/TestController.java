@@ -16,4 +16,8 @@ public class TestController {
 		return "test";
 	}
 	
+	public void test1() {
+		System.out.println("test1 branch에서 작업");
+	}
+	
 }
